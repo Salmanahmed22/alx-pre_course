@@ -1,1 +1,5 @@
 MY first readme
+Edited the file.
+git add .
+git commit -m "adding a README File to the repository"
+git push origin master
